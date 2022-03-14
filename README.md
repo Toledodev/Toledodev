@@ -26,5 +26,6 @@ Apaixonado por futebol e códigos!
   <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
+	<div style="display: inline_block"><br>
 	<a href="https://github.com/Toledodev/Trybe-Projetos" target="_blank"> Repositório com projetos </a>
-
+	</div>

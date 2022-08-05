@@ -14,7 +14,8 @@ Apaixonado por futebol e códigos!
   <a href="https://github.com/Toledodev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Toledodev&count_private=truee&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toledodev&layout=compact&langs_count=7&theme=dark"/>
-	  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toledodev&repo=Trybe-Projetos)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Toledodev/Trybe-Projetos))
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Toledodev&repo=Trybe-Projetos"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 

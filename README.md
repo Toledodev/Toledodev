@@ -5,7 +5,7 @@
 - 💻 I'm a fullstack web developer
 - ⚛️ JavaScript | NodeJS | React
 - 📝 I'm an electrical engineering student
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/toledo-dev), [Email](rafael.toledo@engenharia.ufjf.br)
+- 📫 How to reach me: [LinkedIn]([www.linkedin.com/in/toledo-dev](https://www.linkedin.com/in/toledo-dev/)), [Email](rafael.toledo@engenharia.ufjf.br)
 
 ## Languages and Tools
 
